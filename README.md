@@ -6,15 +6,19 @@ Students usually juggle scattered resources – notes in one place, quizzes some
 
 💡 The Solution – Study Quest
 A one-stop platform where you can:
+
 ✅ Access notes & resources easily
+
 ✅ Attempt interactive quizzes
+
 ✅ Track your progress
+
 ✅ Connect in a collaborative space
 
 🛠️ Tech Stack Used
 React.js | Node.js | MongoDB | Express.js (replace with your stack)
 
-🌐 Try it Live Here: 🔗 Study Quest on GitHub Pages
+🌐 Try it Live Here: 
  – works smoothly on both desktop & mobile.
 
 💬 Your Feedback Matters!
