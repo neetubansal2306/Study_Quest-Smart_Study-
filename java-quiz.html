@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Java Quiz</title>
+    <link rel="stylesheet" href="quiz-style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="quiz-container">
+        <header>
+            <h1>Java Quiz 💻</h1>
+        </header>
+        <main>
+            <div id="quiz">
+                <div id="question-container">
+                    <p id="question-text"></p>
+                    <div id="options-container" class="options-container"></div>
+                </div>
+                <div class="navigation">
+                    <button id="next-btn" class="btn">Next</button>
+                    <button id="submit-btn" class="btn" style="display: none;">Submit</button>
+                </div>
+            </div>
+            <div id="result-container" style="display: none;">
+                <h2 id="result-heading"></h2>
+                <p id="score-text"></p>
+                <button id="restart-btn" class="btn">Restart Quiz</button>
+            </div>
+        </main>
+    </div>
+    <script src="quiz-script.js"></script>
+</body>
+</html>
